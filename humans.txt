@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ranjan Kumar -- ranjan6821@gmail.com -- @ranjan
+    
 
 # THANKS
 
