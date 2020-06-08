@@ -3,12 +3,12 @@
 
 # TEAM
 
-    Ranjan Kumar -- ranjan6821@gmail.com -- @ranjan
+    Ranjan Kumar  ranjan6821@gmail.com  @ranjan
     
 
 # THANKS
 
-    <name>
+    Thanks to my Git instructor Jason!
 
 # TECHNOLOGY COLOPHON
 
